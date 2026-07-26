@@ -11,13 +11,13 @@ html {
   box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
 }
 
-.iteam {
+.item {
   display: flex;
   align-items: center;
   border-bottom: 1px solid #F1F1F1;
 }
 
-.iteam:last-child {
+.item:last-child {
   border-bottom: 0;
 }
 
